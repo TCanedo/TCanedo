@@ -25,8 +25,19 @@
 <h3 align="left">🌐 Socials:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/tcanedo" target="blank"><img align="center" src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="tcanedo" height="20" width="90" /></a>
+  <a href="https://linkedin.com/in/tcanedo" target="_blank" style="text-decoration: none; color: inherit;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+         alt="@tcanedo" 
+         height="30" 
+         width="30" 
+         style="vertical-align: middle; margin-right: 4px;" />
+    <span style="vertical-align: middle;">@tcanedo</span>
+  </a>
 </p>
+
+
+
+
 
 #
 
@@ -124,6 +135,4 @@
 ### 📊 Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api?username=tcanedo&show_icons=true&locale=en&theme=gruvbox)![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=tcanedo&theme=gruvbox)
-
 ![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=tcanedo&show_icons=true&locale=en&theme=gruvbox&layout=compact)
-
