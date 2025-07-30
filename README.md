@@ -1,15 +1,39 @@
-# 👩🏻‍💻 Tiago Canedo
+![Design and Development](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
-**`Developer`**
+<h1 align="center">👋 Hello, fellow code explorer! I'm Tiago Canedo.</h1>
+<h3 align="center">Welcome to my fortress in the coding World! 🌍 I'm a Full Stack Developer dedicated in professional growth. Embracing a healthy and active lifestyle.</h3>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="right" alt="Coding" width="1000">
 
-Chamo-me Tiago Canedo, tenho 22 anos e sou natural do Porto. Licenciei-me em Engenharia informática no ISLA - Gaia.
-Atualmente, estou desempregado, mas estou à procura de uma oportunidade para iniciar a minha carreira profissional.
+#
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif" align="right" alt="Coding" width="360">
 
-### 🤖 Linguagens e Tecnologias
+<h3 align="left">🧠 About me:</h3>
 
-<img 
+ <p align="left">🚀 Embarking in the world of <strong> Full Stack</strong></p>
+ 
+ <p align="left">🎉 Cheers to endless loops and bug-free adventures!</p>
+
+ <p align="left">💡 Multi-task <strong>Genius</strong</p>
+
+ <p align="left">📫 How to reach me <strong>tfrcanedo@gmail.com</strong></p>
+
+ <p align="left">👨💻 All of my projects are available at <a href="https://tcanedo.com/" target="_blank">https://tcanedo.com/</a></p>
+
+#
+
+<h3 align="left">🌐 Socials:</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/tcanedo" target="blank"><img align="center" src="https://camo.githubusercontent.com/d94940866c98cb4fca5783c4e8ac95776d2f52df6bbf3d5ab9e30d76836f30ae/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d2532333030373742352e7376673f6c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="tcanedo" height="20" width="90" /></a>
+</p>
+
+#
+
+<h3 align="left">💻 Tech Stack:</h3>
+
+<p align="left"> 
+ <img 
     align="left" 
     alt="SQL"
     title="SQL" 
@@ -89,25 +113,17 @@ Atualmente, estou desempregado, mas estou à procura de uma oportunidade para in
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=TCanedo&show_icons=true&theme=tokyonight&include_all_commits" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tcanedo&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+ 
 </p>
+<br/>
+<br/>
+
+
+ #
+
+### 📊 Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api?username=tcanedo&show_icons=true&locale=en&theme=gruvbox)![Top Langs](https://github-readme-streak-stats.herokuapp.com/?user=tcanedo&theme=gruvbox)
+
+![Tiago's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=tcanedo&show_icons=true&locale=en&theme=gruvbox&layout=compact)
+
