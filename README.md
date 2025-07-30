@@ -25,15 +25,16 @@
 <h3 align="left">🌐 Socials:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/tcanedo" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://linkedin.com/in/tcanedo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
-         alt="@tcanedo" 
+         alt="tcanedo" 
          height="30" 
          width="30" 
-         style="vertical-align: middle; margin-right: 4px;" />
-    <span style="vertical-align: middle;">@tcanedo</span>
+         style="vertical-align: middle;" />
   </a>
 </p>
+
+
 
 
 
