@@ -1,7 +1,7 @@
 ![Design and Development](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
 
 <h1 align="center">👋 Hello, fellow code explorer! I'm Tiago Canedo.</h1>
-<h3 align="center">Welcome to my fortress in the coding World! 🌍 I'm a Full Stack Developer dedicated in professional growth. Embracing a healthy and active lifestyle.</h3>
+<h3 align="center">Welcome to my fortress in the coding World! 🌍 I'm a Dev/BI Analyst dedicated in professional growth. Embracing a healthy and active lifestyle.</h3>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" align="right" alt="Coding" width="1000">
 
 #
@@ -10,7 +10,7 @@
 
 <h3 align="left">🧠 About me:</h3>
 
- <p align="left">🚀 Embarking in the world of <strong> Full Stack</strong></p>
+ <p align="left">🚀 Embarking in the world of <strong> Work</strong></p>
  
  <p align="left">🎉 Cheers to endless loops and bug-free adventures!</p>
 
